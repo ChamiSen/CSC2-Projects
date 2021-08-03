@@ -1,0 +1,2 @@
+C:\Users\7319139\Documents\GitHub\CSC2-Projects\TourDeKnight\x64\Debug\TourDeKnight.exe
+C:\Users\7319139\Documents\GitHub\CSC2-Projects\TourDeKnight\x64\Debug\TourDeKnight.pdb
